@@ -1,0 +1,14 @@
+3C:
+  IPhone7:
+    - price:6000
+    - sum:2
+  ipod:
+    - price:1000
+    - sum:3
+other:
+  bag:
+    - price:100
+    - sum:3
+  Bike:
+    - price:800
+    - sum:4
